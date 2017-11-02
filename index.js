@@ -17,7 +17,7 @@ var theBeatlesPlay = (musicians, instruments) => {
   return beatles;
 };
 
-var johnLennonFacts => facts {
+var johnLennonFacts = facts => {
   var array = [];
 
   var i = 0;
