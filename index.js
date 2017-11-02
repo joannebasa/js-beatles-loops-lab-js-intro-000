@@ -10,11 +10,11 @@ var iLoveTheBeatles = i => {
 
 var theBeatlesPlay = (musicians, instruments) => {
 
-  var beatles = [];
+  var bandMembers = [];
   for (var i = 0; i < musicians.length; i++) {
     beatles.push(`${musicians[i]} plays ${instruments[i]}`);
   }
-  return beatles;
+  return bandMembers;
 };
 
 var johnLennonFacts = facts => {
@@ -22,7 +22,7 @@ var johnLennonFacts = facts => {
 
   var i = 0;
   while (i < facts.length) {
-    array.push(`${facts[i]}!!!`)
+    array.push(`${facts[i]}!!!`);
     i++;
   }
   return trivia;
