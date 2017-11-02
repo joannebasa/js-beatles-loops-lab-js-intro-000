@@ -1,7 +1,5 @@
 iLoveTheBeatles = i =>
   var array = [];
-
-  var i = 0;
   var text = "Ilove the Beatles!";
     do {
       array.push("I love the Beatles!");
