@@ -1,4 +1,4 @@
-iLoveTheBeatles = number =>
+iLoveTheBeatles = i =>
   var array = [];
 
   var i = 0;
