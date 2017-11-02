@@ -1,4 +1,4 @@
-iLoveTheBeatles = i => {
+var iLoveTheBeatles = i => {
   var array = [];
     do {
       array.push("I love the Beatles!");
