@@ -18,12 +18,12 @@ var theBeatlesPlay = (musicians, instruments) => {
 };
 
 var johnLennonFacts = facts => {
-  var array = [];
+  var trivia = [];
 
   var i = 0;
   while (i < facts.length) {
     array.push(`${facts[i]}!!!`)
     i++;
   }
-  return array;
+  return trivia;
 }
