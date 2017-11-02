@@ -18,7 +18,7 @@ var theBeatlesPlay = (musicians, instruments) => {
 };
 
 var johnLennonFacts = facts => {
-  var trivia = [];
+  var array = [];
 
   var i = 0;
   while (i < facts.length) {
