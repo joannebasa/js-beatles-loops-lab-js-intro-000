@@ -1,5 +1,5 @@
 iLoveTheBeatles = number =>
-  var love = [];
+  var array = [];
 
   var i = 0;
   var text = "Ilove the Beatles!";
@@ -8,4 +8,4 @@ iLoveTheBeatles = number =>
       i++;
   }
   while (i < 15);
-  love.push(text);
+  array.push(text);
