@@ -1,4 +1,4 @@
-iLoveTheBeatles = i =>
+iLoveTheBeatles = i => {
   var array = [];
     do {
       array.push("I love the Beatles!");
@@ -6,3 +6,4 @@ iLoveTheBeatles = i =>
     }
   while (i < 15);
   return array;
+}
